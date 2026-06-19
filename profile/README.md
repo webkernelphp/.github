@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="#" style="width:500px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="../branding/webkernel-logo-icon-dark.png">
         <img alt="Webkernel" src="../branding/webkernel-logo-icon-light.png">
