@@ -1,13 +1,12 @@
 <p align="center">
-  <a href="#" style="width:500px;">
+  <a href="#">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="../branding/webkernel-logo-icon-dark.png">
-        <img alt="Webkernel" src="../branding/webkernel-logo-icon-light.png">
+        <img alt="Webkernel" src="../branding/webkernel-logo-icon-light.png" style="width:450px;">
       </picture>
     </a>
 </p>
   
-<h1 align="center">Webkernel</h1>
 <div align="center">
 Webkernel is an open application engine designed to operate self-contained modules. 
   <br /><br />
